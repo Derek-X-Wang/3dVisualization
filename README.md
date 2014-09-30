@@ -41,28 +41,17 @@ Add your name after the todo so we know you are dealing with that issue.
 |Style redo. Improve current UI. Please keep in mind, the website need to able to work cross-platform, so does the UI.| |
 |Finishing index.php, give customers a good intro page. Keep it simple!| |
 |Finishing signup.php, google stlye is recommended.| |
-| zebra stripes | |
-| zebra stripes | |
-| zebra stripes | |
-| zebra stripes | |
-| zebra stripes | |
-| zebra stripes | |
-| zebra stripes | |
+|Finishing login.php and logout.php with secure approach, google login stlye is recommended.| |
+|Redo home.php, add list view option.| |
+|Developing place.php for:| |
+|+the better interaction(engine)| |
+|+a new loading bar| |
+|+minimizing loading time| |
+|+the local stoage ability| |
+|+the better format support| |
+|+etc| |
+|Adding new database methods.| |
 
-+ Developing admin site for members who do not have programing background. Include Pages, Users, Database... managements. Remeber, this is for people of zero coding experience.
-+ Style redo. Improve current UI. Please keep in mind, the website need to able to work cross-platform, so does the UI.
-+ Finishing index.php, give customers a good intro page. Keep it simple!
-+ Finishing signup.php, google stlye is recommended.
-+ Finishing login.php and logout.php with secure approach, google login stlye is recommended.
-+ Redo home.php, add list view option.
-+ Developing place.php for 
-   *the better interaction(engine) 
-   *a new loading bar
-   *minimizing loading time
-   *the local stoage ability
-   *the better format support
-   *etc
-+ Adding new database methods.
 
 ## Contacts
 Github, Phone, email, skype
