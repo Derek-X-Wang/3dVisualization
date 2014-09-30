@@ -1,0 +1,82 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for 'DiningRmSet01.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0137_Black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 00_TaME_PlatinumBrushed01
+Ka 0.411765 0.372549 0.290196
+Kd 0.411765 0.372549 0.290196
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd DiningRmSet01_Textures/00_TaME_PlatinumBrushed01.jpg
+
+newmtl 0136_Charcoal
+Ka 0.137255 0.137255 0.137255
+Kd 0.137255 0.137255 0.137255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl leather_faux_010
+Ka 0.756863 0.192157 0.188235
+Kd 0.756863 0.192157 0.188235
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd DiningRmSet01_Textures/leather_faux_010.jpg
+
+newmtl leather-24
+Ka 0.258824 0.2 0.152941
+Kd 0.258824 0.2 0.152941
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd DiningRmSet01_Textures/leather-24.jpg
+
+newmtl H1555_ST15
+Ka 0.211765 0.101961 0.054902
+Kd 0.211765 0.101961 0.054902
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd DiningRmSet01_Textures/H1555_ST15.jpg
+
+newmtl DalynRugs-Nairobis90_ivory
+Ka 0.47451 0.407843 0.333333
+Kd 0.47451 0.407843 0.333333
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd DiningRmSet01_Textures/DalynRugs-Nairobis90_ivory.jpg
+
+newmtl Color_008
+Ka 0.117647 0.117647 0.117647
+Kd 0.117647 0.117647 0.117647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+#EOF
