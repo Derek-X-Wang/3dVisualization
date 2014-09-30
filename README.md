@@ -42,12 +42,12 @@ Add your name after the todo so we know you are dealing with that issue.
 + Finishing login.php and logout.php with secure approach, google login stlye is recommended.
 + Redo home.php, add list view option.
 + Developing place.php for 
-   +the better interaction(engine) 
-   +a new loading bar
-   +minimizing loading time
-   +the local stoage ability
-   +the better format support
-   +etc
+   *the better interaction(engine) 
+   *a new loading bar
+   *minimizing loading time
+   *the local stoage ability
+   *the better format support
+   *etc
 + Adding new database methods.
 
 ## Contacts
