@@ -35,6 +35,20 @@ I higely recommed you to follow [this tutorial](https://www.youtube.com/playlist
 
 Add your name after the todo so we know you are dealing with that issue.
 
+| TODOs        | Contributors           |
+| ------------- |:-------------:|
+|Developing admin site for members who do not have programing background. Include Pages, Users, Database... managements. Remeber, this is for people of zero coding experience.| |
+|Style redo. Improve current UI. Please keep in mind, the website need to able to work cross-platform, so does the UI.| |
+|Finishing index.php, give customers a good intro page. Keep it simple!| |
+|Finishing signup.php, google stlye is recommended.| |
+| zebra stripes | |
+| zebra stripes | |
+| zebra stripes | |
+| zebra stripes | |
+| zebra stripes | |
+| zebra stripes | |
+| zebra stripes | |
+
 + Developing admin site for members who do not have programing background. Include Pages, Users, Database... managements. Remeber, this is for people of zero coding experience.
 + Style redo. Improve current UI. Please keep in mind, the website need to able to work cross-platform, so does the UI.
 + Finishing index.php, give customers a good intro page. Keep it simple!
