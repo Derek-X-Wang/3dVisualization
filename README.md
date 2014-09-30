@@ -3,7 +3,7 @@ IntBridge_3dVisualization
 
 A web app to provide a better 3D interaction. Power by IntBridge
 
-# Introduction
+## Introduction
 
 + __.setting__ is aptana studio 3 setting file, ignore it if you use other IDE. (may delete this folder in future)
 + __admin__ is back-end website for maintenance, currently under developing.
@@ -24,14 +24,14 @@ A web app to provide a better 3D interaction. Power by IntBridge
 + __place.php__ is where the models are displayed.
 + __signup.php__ is the register page.
 
-# Pre-requirements
+## Pre-requirements
 
 + IDE is recommended, but it is your choose.
 + XAMPP is required for local testing
 + you need to setup database for some feature to work, contact me for the details. GitHub: derek-x-wang Phone: 1(626)354-3629
 I higely recommed you to follow [this tutorial](https://www.youtube.com/playlist?list=PLAkMqlQoeMeiwvNWpe3mhgQxAa1jiGwmt) for setup.
 
-# TODOs
+## TODOs
 
 Add your name after the todo so we know you are dealing with that issue.
 
@@ -50,8 +50,9 @@ Add your name after the todo so we know you are dealing with that issue.
    etc
 + Adding new database methods.
 
-# Contacts
+## Contacts
 Github, Phone, email, skype
+
 Derek Wang: derek-x-wang, 1(626)354-3629, derekxinzhewang@gmail.com, derekxw
 
 
