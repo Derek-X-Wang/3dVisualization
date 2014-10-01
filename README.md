@@ -29,7 +29,7 @@ A web app to provide a better 3D interaction. Power by IntBridge
 + IDE is recommended, but it is your choose.
 + XAMPP is required for local testing
 + you need to setup database for some feature to work, contact me for the details. GitHub: derek-x-wang Phone: 1(626)354-3629
-I higely recommed you to follow [this tutorial](https://www.youtube.com/playlist?list=PLAkMqlQoeMeiwvNWpe3mhgQxAa1jiGwmt) for setup.
+I higely recommended you to follow [this tutorial](https://www.youtube.com/playlist?list=PLAkMqlQoeMeiwvNWpe3mhgQxAa1jiGwmt) for setup.
 
 ## TODOs
 
@@ -44,12 +44,12 @@ Add your name after the todo so we know you are dealing with that issue.
 |Finishing login.php and logout.php with secure approach, google login stlye is recommended.| |
 |Redo home.php, add list view option.| |
 |Developing place.php for:| |
-|+the better interaction(engine)| |
-|+a new loading bar| |
-|+minimizing loading time| |
-|+the local stoage ability| |
-|+the better format support| |
-|+etc| |
+|++the better interaction(engine)| |
+|++a new loading bar| |
+|++minimizing loading time| |
+|++the local stoage ability| |
+|++the better format support| |
+|++etc| |
 |Adding new database methods.| |
 
 
